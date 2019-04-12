@@ -1,0 +1,6 @@
+server:
+  port: 8105
+
+sys:
+  environment: test
+    

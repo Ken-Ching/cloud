@@ -1,0 +1,12 @@
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://10.132.8.66:8101/eureka/,http://10.132.8.66:8102/eureka/
+
+server:
+  port: 8150
+    
+spring:
+  application:
+    name: log-service
+    
